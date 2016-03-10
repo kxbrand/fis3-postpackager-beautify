@@ -1,0 +1,15 @@
+{
+  "name": "fis3-postpackager-beautify",
+  "version": "1.0.0",
+  "description": "fis3 postpackager beautify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kxbrand",
+  "license": "ISC",
+  "dependencies": {
+    "clean-css": "^3.4.10",
+    "js-beautify": "^1.6.2"
+  }
+}
